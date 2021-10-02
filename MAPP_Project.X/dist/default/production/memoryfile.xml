@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\MAPP_Project.X.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>28672</length>
+      <used>1472</used>
+      <free>27200</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>2048</length>
+      <used>71</used>
+      <free>1977</free>
+    </memory>
+  </executable>
+</project>
