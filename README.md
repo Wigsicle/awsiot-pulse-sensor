@@ -1,6 +1,8 @@
 # crispy-palm-tree
 This is my group's project submission for our Microcontroller Applications Module.
 
+This repo does not contain complete files as some of the information within them is of a personal nature. With a few modifications the project should be able to work. Examples of these would be AWS endpoints, network ssid and passwords.
+
 For our module we focused on the Microchip Technology PIC18F4550-I/P microcontroller.
 The IDE we used was MPLAB X IDE.
 
