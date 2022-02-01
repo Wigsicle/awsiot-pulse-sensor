@@ -8,7 +8,7 @@ The IDE we used was MPLAB X IDE.
 
 Our project idea was based around the MAX30102 Pulse Oximeter and Heart-Rate Sensor. Our aim was to reduced the time needed for the Singapore Civil Defence Force's ambulance to response to out-patients with heart related diseases. 
 
-How we intended to carry out our idea was through the use of AWS. (Our lecturer told us it would be better to have a content provider for our project instead of a VM.)
+How we intended to carry out our idea was through the use of AWS. (Our lecturer suggested it would be better to have a content provider for our project instead of a VM.)
 
 The implemention consists of a on-person device , base station and dispatch end.
 
