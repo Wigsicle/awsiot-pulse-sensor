@@ -1,4 +1,4 @@
-# crispy-palm-tree
+# awsiot-pulse-sensor
 This is my group's project submission for our Microcontroller Applications Module.
 
 This repo does not contain complete files as some of the information within them is of a personal nature. With a few modifications the project should be able to work. Examples of these would be AWS endpoints, network ssid and passwords.
